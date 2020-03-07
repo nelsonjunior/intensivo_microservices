@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b881cdf7-f5c4-475a-8c90-7edcfd786b8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../sdk/go1.13.8" />
+  <component name="ProjectId" id="1YDymTfeQDi2144ZuQQOrpzPLcl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rabbitmq" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbitmq" />
+      <recent name="$PROJECT_DIR$/k8s" />
+      <recent name="$PROJECT_DIR$/order" />
+      <recent name="$PROJECT_DIR$/payment" />
+      <recent name="$PROJECT_DIR$/catalog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.checkout/Dockerfile">
+    <configuration name="go build product.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Source" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/product/product.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Product Docker" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="product/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="catalog/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="catalog/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="checkout/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="checkout/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker/docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker/docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.checkout/Dockerfile" />
+        <item itemvalue="Docker.docker/docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.catalog/Dockerfile" />
+        <item itemvalue="Docker.Product Docker" />
+        <item itemvalue="Go Build.go build product.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.4886076" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b881cdf7-f5c4-475a-8c90-7edcfd786b8a" name="Default Changelist" comment="" />
+      <created>1582491618807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582491618807</updated>
+      <workItem from="1582491623512" duration="24233000" />
+      <workItem from="1582728541732" duration="1975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="176" key="#Docker" timestamp="1582499397036">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="176" key="#Docker/0.23.1680.975@0.23.1680.975" timestamp="1582499397036" />
+    <state x="440" y="176" key="#GOPATH" timestamp="1582496035108">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="176" key="#GOPATH/0.23.1680.975@0.23.1680.975" timestamp="1582496035108" />
+    <state x="440" y="176" key="#Go_Modules_(vgo)" timestamp="1582496655514">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="176" key="#Go_Modules_(vgo)/0.23.1680.975@0.23.1680.975" timestamp="1582496655514" />
+    <state x="535" y="75" key="#Product_Docker" timestamp="1582500443262">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="535" y="75" key="#Product_Docker/0.23.1680.975@0.23.1680.975" timestamp="1582500443262" />
+    <state x="440" y="177" key="#Project_Structure" timestamp="1582504647606">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="177" key="#Project_Structure/0.23.1680.975@0.23.1680.975" timestamp="1582504647606" />
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582496445564">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1582496445564" />
+    <state x="536" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582594945776">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="536" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.975@0.23.1680.975" timestamp="1582594945776" />
+    <state x="535" y="249" key="#docker/docker-compose.yaml:_Compose_Deployment" timestamp="1582550560728">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="535" y="249" key="#docker/docker-compose.yaml:_Compose_Deployment/0.23.1680.975@0.23.1680.975" timestamp="1582550560728" />
+    <state x="535" y="63" key="#product/Dockerfile" timestamp="1582499331507">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="535" y="63" key="#product/Dockerfile/0.23.1680.975@0.23.1680.975" timestamp="1582499331507" />
+    <state width="819" height="263" key="GridCell.Tab.0.bottom" timestamp="1582496729578">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="819" height="263" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1582496729578" />
+    <state width="819" height="263" key="GridCell.Tab.0.center" timestamp="1582496729577">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="819" height="263" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1582496729577" />
+    <state width="819" height="263" key="GridCell.Tab.0.left" timestamp="1582496729577">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="819" height="263" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1582496729577" />
+    <state width="819" height="263" key="GridCell.Tab.0.right" timestamp="1582496729578">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="819" height="263" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582496729578" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1582500631358">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582500631358" />
+    <state x="503" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1582548874209">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="503" y="236" width="672" height="678" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1582548874209" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: product
+  namespace: intensivo-app
+  labels:
+    app: intensivo-app
+spec:
+  selector:
+    matchLabels:
+      app: product
+
+  template:
+    metadata:
+      labels:
+        app: product
+    spec:
+      containers:
+        - name: product
+          image: nrsjnet/intensivo-product
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8081
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: product-service
+  namespace: intensivo-app
+  labels:
+    app: product-service
+spec:
+  type: NodePort
+  ports:
+    - protocol: TCP
+      port: 8081
+      nodePort: 30080
+  selector:
+    app: product
